@@ -68,13 +68,13 @@ a:hover {
 #portrait {
     position: relative;
     left: 29vw;
-    width: 42vw;
+    width: 43vw;
 }
 
 #portrait p {
-    padding-top: 6vw;
-    line-height: 30px;
-    font-size: 16px;
+    line-height: 33px;
+    font-size: 15px;
+    letter-spacing: .05vw;
 }
 
 #portrait img {
